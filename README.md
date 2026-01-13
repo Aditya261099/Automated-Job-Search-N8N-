@@ -2,22 +2,6 @@
 
 An intelligent n8n workflow that automates job searching, scraping, AI-powered analysis, and notification system for streamlined job hunting on Indeed and other job platforms.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Use Cases](#use-cases)
-- [Workflow Architecture](#workflow-architecture)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Node Breakdown](#node-breakdown)
-- [Usage](#usage)
-- [Best Practices](#best-practices)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Overview
 
 This n8n workflow automates the tedious process of job searching by continuously monitoring job boards, extracting relevant job postings, analyzing them with AI, and organizing results in a spreadsheet. Built for developers and job seekers who want to optimize their job search process and never miss opportunities.
